@@ -13,12 +13,12 @@
 /**
  * PROJECT URLs
  */
-define("CONF_URL_BASE", "https://www.sensetranslate.com"
+define("CONF_URL_BASE", "https://www.localhost/sense_servidor_v1.0"
         . "");
-define("CONF_URL_APP", "https://www.sensetranslate.com/office");
-define("CONF_URL_TEST", "https://www.sensetranslate.com");
+define("CONF_URL_APP", "https://www.localhost/sense_servidor_v1.0/office");
+define("CONF_URL_TEST", "https://www.localhost/sense_servidor_v1.0");
 define("CONF_URL_ADMIN", "/admin");
-define("LINK_ASSETS_APP", "https://www.sensetranslate.com/office");
+define("LINK_ASSETS_APP", "https://www.localhost/sense_servidor_v1.0/office");
 
 /**
  * SITE
